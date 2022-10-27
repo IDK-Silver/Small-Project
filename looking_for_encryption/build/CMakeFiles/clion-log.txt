@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.2/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\idk\Documents\GitHub\small_project\looking_for_encryption -B C:\Users\idk\Documents\GitHub\small_project\looking_for_encryption\build
+-- Conan: Adjusting output directories
+-- Conan: Using cmake global configuration
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- Current conanbuildinfo.cmake directory: C:/Users/idk/Documents/GitHub/small_project/looking_for_encryption/build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/idk/Documents/GitHub/small_project/looking_for_encryption/build

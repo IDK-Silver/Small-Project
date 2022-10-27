@@ -1,0 +1,8 @@
+[requires]
+cryptopp/8.7.0
+
+[generators]
+cmake
+
+[imports]
+bin, *dll -> ./bin

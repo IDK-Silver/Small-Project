@@ -1,0 +1,3 @@
+C:/Users/idk/Documents/GitHub/small_project/looking_for_encryption/build/CMakeFiles/Looking_For_Encryption.dir
+C:/Users/idk/Documents/GitHub/small_project/looking_for_encryption/build/CMakeFiles/edit_cache.dir
+C:/Users/idk/Documents/GitHub/small_project/looking_for_encryption/build/CMakeFiles/rebuild_cache.dir
